@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Me!]( https://github.com/kleiren/kleiren.github.io/blob/master/images/Untitled.png)
+![Me!](http://www.gravatar.com/avatar/71c076b0bdb8a0ad226820606ea70196)
 
 Not what you are looking for
 
