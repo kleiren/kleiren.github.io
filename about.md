@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Me!]( https://github.com/kleiren/kleiren.github.io/blob/master/images/Untitled.png)
+
 Not what you are looking for
 
 ### More Information
