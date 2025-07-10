@@ -1,5 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.get_login_creds"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
   "target" : { "namespace": "android_app", "package_name": "com.transmit.ido_codegen_android",
                "sha256_cert_fingerprints": ["0F:00:D3:09:64:14:DC:9E:41:7D:14:C9:08:B2:8C:C0:9A:9D:F2:89:0F:28:8E:45:1F:07:2C:BF:75:27:53:F6"] }
 },
